@@ -1,0 +1,7 @@
+div#container { width:970px; position:relative; margin:0 auto 0 auto; text-align:left; }
+body { background-color:transparent; color:#000000; font-family:Arial; font-weight:normal; font-size:13px; line-height:1.1875; margin:0; text-align:center; }
+#Banner1 { background-color:#FF0000; background:linear-gradient(225deg, #FF0000 0%, #C00000 100%); border:0px solid #A0A0A0; color:#FFF5EE; font-family:Arial; font-weight:bold; font-style:italic; font-size:19px; text-align:center; margin:0; }
+#Banner1 span { display:block; height:19px; margin:6px 0px 6px 0px; }
+#Banner2 { background-color:#FF0000; background:linear-gradient(225deg, #FF0000 0%, #C00000 100%); border:0px solid #A0A0A0; color:#FFF5EE; font-family:Arial; font-weight:bold; font-style:italic; font-size:19px; text-align:center; margin:0; }
+#Banner2 span { display:block; height:19px; margin:6px 0px 6px 0px; }
+.imvustylez_marquee { background-color:transparent; color:#000000; border:0px #000000; }
